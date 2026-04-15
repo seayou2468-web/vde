@@ -1,20 +1,119 @@
-Starting browser (Simulated Manual interaction)...
-Logging in...
-  Course finished.
-
->>> PROCESSING COURSE 7: 701 現代高等保健体育
-  Course finished.
-
->>> PROCESSING COURSE 8: 現国002-901 新編現代の国語
-Reached MyPage.
-  - Target Lecture ID: lsi74465
-Logged in successfully.
-Found 25 courses.
-
->>> PROCESSING COURSE 0: 701 情報Ⅱ
-  Course error: Page.wait_for_selector: Timeout 30000ms exceeded.
-Call log:
-  - waiting for locator(".rw.data2") to be visible
-
-
->>> PROCESSING COURSE 1: 701 政治・経済
+[TRACE] Starting simulation browser (Manual Interaction mode)...
+[TRACE] Logging in...
+[TRACE] Reached MyPage.
+[TRACE] LMS Course List loaded.
+[TRACE]
+>>> TRACING COURSE 0: 701 情報Ⅱ
+[TRACE]   No more videos to play in 701 情報Ⅱ.
+[TRACE]
+>>> TRACING COURSE 1: 701 政治・経済
+[TRACE]     [Click] Could not find coordinates for .dataCell.kyoka:nth-child(2).
+[TRACE]   No more videos to play in 701 政治・経済.
+[TRACE]
+>>> TRACING COURSE 2: 701 文学国語
+[TRACE]     [Click] Could not find coordinates for .dataCell.kyoka:nth-child(3).
+[TRACE]   No more videos to play in 701 文学国語.
+[TRACE]
+>>> TRACING COURSE 3: 701 世界史探究
+[TRACE]     [Click] Could not find coordinates for .dataCell.kyoka:nth-child(4).
+[TRACE]   No more videos to play in 701 世界史探究.
+[TRACE]
+>>> TRACING COURSE 4: 701 新編論理国語
+[TRACE]     [Click] Could not find coordinates for .dataCell.kyoka:nth-child(5).
+[TRACE]   No more videos to play in 701 新編論理国語.
+[TRACE]
+>>> TRACING COURSE 5: 701 日本史探究
+[TRACE]     [Click] Could not find coordinates for .dataCell.kyoka:nth-child(6).
+[TRACE]   No more videos to play in 701 日本史探究.
+[TRACE]
+>>> TRACING COURSE 6: 701 英語コミュニケーションⅡ All Aboard English CommunicationⅡ
+[TRACE]     [Click] Could not find coordinates for .dataCell.kyoka:nth-child(7).
+[TRACE]   No more videos to play in 701 英語コミュニケーションⅡ All Aboard English CommunicationⅡ.
+[TRACE]
+>>> TRACING COURSE 7: 701 現代高等保健体育
+[TRACE]     [Click] Could not find coordinates for .dataCell.kyoka:nth-child(8).
+[TRACE]   No more videos to play in 701 現代高等保健体育.
+[TRACE]
+>>> TRACING COURSE 8: 現国002-901 新編現代の国語
+[TRACE]     [Click] Could not find coordinates for .dataCell.kyoka:nth-child(9).
+[TRACE]   No more videos to play in 現国002-901 新編現代の国語.
+[TRACE]
+>>> TRACING COURSE 9: 言文002-901 新編言語文化
+[TRACE]     [Click] Could not find coordinates for .dataCell.kyoka:nth-child(10).
+[TRACE]   No more videos to play in 言文002-901 新編言語文化.
+[TRACE]
+>>> TRACING COURSE 10: 地総002-901 地理総合
+[TRACE]     [Click] Could not find coordinates for .dataCell.kyoka:nth-child(11).
+[TRACE]   No more videos to play in 地総002-901 地理総合.
+[TRACE]
+>>> TRACING COURSE 11: 歴総002-901 歴史総合
+[TRACE]     [Click] Could not find coordinates for .dataCell.kyoka:nth-child(12).
+[TRACE]   No more videos to play in 歴総002-901 歴史総合.
+[TRACE]
+>>> TRACING COURSE 12: 公共002-901 公共
+[TRACE]     [Click] Could not find coordinates for .dataCell.kyoka:nth-child(13).
+[TRACE]   No more videos to play in 公共002-901 公共.
+[TRACE]
+>>> TRACING COURSE 13: 数Ⅰ002-905 改訂版 新数学Ⅰ
+[TRACE]     [Click] Could not find coordinates for .dataCell.kyoka:nth-child(14).
+[TRACE]   No more videos to play in 数Ⅰ002-905 改訂版 新数学Ⅰ.
+[TRACE]
+>>> TRACING COURSE 14: 数A002-905 改訂版 新数学A
+[TRACE]     [Click] Could not find coordinates for .dataCell.kyoka:nth-child(15).
+[TRACE]   No more videos to play in 数A002-905 改訂版 新数学A.
+[TRACE]
+>>> TRACING COURSE 15: 科人002-901 改訂 科学と人間生活
+[TRACE]     [Click] Could not find coordinates for .dataCell.kyoka:nth-child(16).
+[TRACE]   No more videos to play in 科人002-901 改訂 科学と人間生活.
+[TRACE]
+>>> TRACING COURSE 16: 生基002-902 改訂 新編生物基礎
+[TRACE]     [Click] Could not find coordinates for .dataCell.kyoka:nth-child(17).
+[TRACE]   No more videos to play in 生基002-902 改訂 新編生物基礎.
+[TRACE]
+>>> TRACING COURSE 17: 書Ⅰ002-901 書道Ⅰ
+[TRACE]     [Click] Could not find coordinates for .dataCell.kyoka:nth-child(18).
+[TRACE]   No more videos to play in 書Ⅰ002-901 書道Ⅰ.
+[TRACE]
+>>> TRACING COURSE 18: CⅠ002-901 All Aboard ! English CommunicationⅠRevised
+[TRACE]     [Click] Could not find coordinates for .dataCell.kyoka:nth-child(19).
+[TRACE]   No more videos to play in CⅠ002-901 All Aboard ! English CommunicationⅠRevised.
+[TRACE]
+>>> TRACING COURSE 19: 論Ⅰ002-901 NEW FAVORITE English Logic and ExpressionⅠRevised
+[TRACE]     [Click] Could not find coordinates for .dataCell.kyoka:nth-child(20).
+[TRACE]   No more videos to play in 論Ⅰ002-901 NEW FAVORITE English Logic and ExpressionⅠRevised.
+[TRACE]
+>>> TRACING COURSE 20: 家総002-901 家庭総合
+[TRACE]     [Click] Could not find coordinates for .dataCell.kyoka:nth-child(21).
+[TRACE]   No more videos to play in 家総002-901 家庭総合.
+[TRACE]
+>>> TRACING COURSE 21: 情Ⅰ002-901 新編情報Ⅰ
+[TRACE]     [Click] Could not find coordinates for .dataCell.kyoka:nth-child(22).
+[TRACE]   No more videos to play in 情Ⅰ002-901 新編情報Ⅰ.
+[TRACE]
+>>> TRACING COURSE 22: 050-901現代高等保健体育 改訂版／体育実技
+[TRACE]     [Click] Could not find coordinates for .dataCell.kyoka:nth-child(23).
+[TRACE]   No more videos to play in 050-901現代高等保健体育 改訂版／体育実技.
+[TRACE]
+>>> TRACING COURSE 23: 050-901 音楽Ⅰ 改訂版 Tutti+
+[TRACE]     [Click] Could not find coordinates for .dataCell.kyoka:nth-child(24).
+[TRACE]   No more videos to play in 050-901 音楽Ⅰ 改訂版 Tutti+.
+[TRACE]
+>>> TRACING COURSE 24: 701 論理・表現Ⅱ NEW FAVORITE English Logic and Expression Ⅱ
+[TRACE]     [Click] Could not find coordinates for .dataCell.kyoka:nth-child(25).
+[TRACE]   No more videos to play in 701 論理・表現Ⅱ NEW FAVORITE English Logic and Expression Ⅱ.
+[TRACE] === MISSION COMPLETED: NO UNFINISHED VIDEOS FOUND ===
+Exception ignored in: <function BaseSubprocessTransport.__del__ at 0x7f899bce4d60>
+Traceback (most recent call last):
+  File "/home/jules/.pyenv/versions/3.12.13/lib/python3.12/asyncio/base_subprocess.py", line 126, in __del__
+    self.close()
+  File "/home/jules/.pyenv/versions/3.12.13/lib/python3.12/asyncio/base_subprocess.py", line 104, in close
+    proto.pipe.close()
+  File "/home/jules/.pyenv/versions/3.12.13/lib/python3.12/asyncio/unix_events.py", line 767, in close
+    self.write_eof()
+  File "/home/jules/.pyenv/versions/3.12.13/lib/python3.12/asyncio/unix_events.py", line 753, in write_eof
+    self._loop.call_soon(self._call_connection_lost, None)
+  File "/home/jules/.pyenv/versions/3.12.13/lib/python3.12/asyncio/base_events.py", line 799, in call_soon
+    self._check_closed()
+  File "/home/jules/.pyenv/versions/3.12.13/lib/python3.12/asyncio/base_events.py", line 545, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
